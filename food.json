@@ -1,1 +1,1 @@
-[{"title":"Pizza ","description":"Pepperoni ","isRecommended":false,"price":80.0,"category":"Pita"},{"title":"Salat pizza","description":"med kylling ","isRecommended":false,"price":120.0,"category":"Pita"}]
+[{"title":"Pizza ","description":"Pepperoni ","isRecommended":false,"price":80.0,"category":"Pita"},{"title":"Salat pizza","description":"med kylling ","isRecommended":false,"price":120.0,"category":"Pita"},{"title":"Med kylling ","description":"Pizza med kylling og salat","isRecommended":false,"price":120.0,"category":"Pizza"}]
